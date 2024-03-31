@@ -1,0 +1,16 @@
+{
+  "name": "posmotri_v_okno",
+  "version": "1.0.0",
+  "description": "test for correct code",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "check": "prettier --check './**/*.{html,css,js}'",
+    "format": "prettier --write './**/*.{html,css,js}'"
+  },
+  "author": "CleaneR",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.2.5"
+  }
+}
