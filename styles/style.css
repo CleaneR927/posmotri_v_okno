@@ -21,10 +21,6 @@
 
 /* Настройка скролла. Конец */
 
-html {
-  block-size: 100%;
-}
-
 .page {
   inline-size: 1200px;
   block-size: 100%;
@@ -71,7 +67,7 @@ ol {
   justify-content: center;
   align-items: end;
   margin-inline: 30px;
-  margin-block-start: 136px;
+  margin-block: 136px;
   inline-size: 1140px;
   gap: 30px;
 }
